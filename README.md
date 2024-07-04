@@ -15,7 +15,6 @@
 
 - 🔍 Sou curioso de saber sobre como as coisas funcionam!
 - ✏️ Busco sempre aprender novas tecnologias.
-- 🖥️ Estudante de Desenvolvimento Web Full Stack na Trybe.
 - 📺 Gosto de assistir séries, animes e jogar video game nas horas vagas.
 - ✉️ Fique à vontade para entrar em contato comigo!
 
